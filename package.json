@@ -1,13 +1,11 @@
 {
-  "name": "SoS",
+  "name": "adyax",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "express": "^4.15.2",
     "react-scripts": "0.9.5"
   },
   "dependencies": {
-    "pokedex-promise-v2": "^3.0.3",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
